@@ -1,1 +1,2 @@
-# MATLAB-Aircraft_Pitch_control
+# Aircraft Pitch Control
+The equations governing the motion of an aircraft are a set of six nonlinear coupled differential equations. However, under certain assumptions, they can be decoupled and linearized into longitudinal and lateral equations. Aircraft pitch is governed by the longitudinal dynamics. In this project, an autopilot is designed which controls the pitch of the aircraft (assuming the aircraft is at steady-cruise).
